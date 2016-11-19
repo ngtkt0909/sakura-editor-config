@@ -9,7 +9,7 @@
 | black-theme.col | Black Background |
 
 ## License
-[MIT](https://github.com/ngtkt0909/dot-emacs/blob/master/LICENSE)
+[MIT](https://github.com/ngtkt0909/sakura-editor-config/blob/master/LICENSE)
 
 ## Author
 [T. Ngtk](https://github.com/ngtkt0909)
