@@ -1,7 +1,7 @@
 # sakura-editor-config
 
 ## Overview
-[Sakura-Editor](http://sakura-editor.sourceforge.net/)'s configuration file.
+Configuration files for [Sakura-Editor](http://sakura-editor.sourceforge.net/).
 
 ## Color Theme
 | File Name       | Description      |
